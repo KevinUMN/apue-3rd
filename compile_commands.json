@@ -1,0 +1,3576 @@
+[
+ {
+  "directory": "/home/kevin/c/apue-3rd/environ", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "testjmp.c", 
+   "-o", 
+   "testjmp", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "testjmp.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/standards", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "options.c", 
+   "-o", 
+   "options", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "options.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/exercises", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "sleepus_select.o", 
+   "sleepus_select.c"
+  ], 
+  "file": "sleepus_select.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/signals", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "mask.c", 
+   "-o", 
+   "mask", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "mask.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/standards", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "conf.c", 
+   "-o", 
+   "conf", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "conf.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/ipc1", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "slock.o", 
+   "slock.c"
+  ], 
+  "file": "slock.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/proc", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "pruids.c", 
+   "-o", 
+   "pruids", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "pruids.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/lib", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "ttymodes.o", 
+   "ttymodes.c"
+  ], 
+  "file": "ttymodes.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/datafiles", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "getpwnam.o", 
+   "getpwnam.c"
+  ], 
+  "file": "getpwnam.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/ipc2/open.fe", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "open.o", 
+   "open.c"
+  ], 
+  "file": "open.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/fileio", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "mycat.c", 
+   "-o", 
+   "mycat", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "mycat.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/advio", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "mandatory.c", 
+   "-o", 
+   "mandatory", 
+   "-L../lib", 
+   "-lapue", 
+   "-lrt"
+  ], 
+  "file": "mandatory.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/lib", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "writen.o", 
+   "writen.c"
+  ], 
+  "file": "writen.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/intro", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "testerror.c", 
+   "-o", 
+   "testerror", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "testerror.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/filedir", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "filetype.c", 
+   "-o", 
+   "filetype", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "filetype.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/exercises", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "sizepipe.c", 
+   "-o", 
+   "sizepipe", 
+   "-L../lib", 
+   "-lapue", 
+   "-pthread"
+  ], 
+  "file": "sizepipe.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/signals", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "read2.c", 
+   "-o", 
+   "read2", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "read2.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/lib", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "readn.o", 
+   "readn.c"
+  ], 
+  "file": "readn.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/threads", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "exitstatus.c", 
+   "-o", 
+   "exitstatus", 
+   "-L../lib", 
+   "-lapue", 
+   "-pthread", 
+   "-lrt", 
+   "-lbsd"
+  ], 
+  "file": "exitstatus.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/sockets", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "initsrv2.o", 
+   "initsrv2.c"
+  ], 
+  "file": "initsrv2.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/advio", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "nonblockw.c", 
+   "-o", 
+   "nonblockw", 
+   "-L../lib", 
+   "-lapue", 
+   "-lrt"
+  ], 
+  "file": "nonblockw.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/db", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-I.", 
+   "t4.c"
+  ], 
+  "file": "t4.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/lib", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "servaccept.o", 
+   "servaccept.c"
+  ], 
+  "file": "servaccept.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/exercises", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "sleepus_poll.o", 
+   "sleepus_poll.c"
+  ], 
+  "file": "sleepus_poll.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/environ", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "doatexit.c", 
+   "-o", 
+   "doatexit", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "doatexit.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/sockets", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "ruptimed.o", 
+   "ruptimed.c"
+  ], 
+  "file": "ruptimed.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/lib", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "senderr.o", 
+   "senderr.c"
+  ], 
+  "file": "senderr.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/exercises", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "asyncsocket.o", 
+   "asyncsocket.c"
+  ], 
+  "file": "asyncsocket.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/threads", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "timedlock.c", 
+   "-o", 
+   "timedlock", 
+   "-L../lib", 
+   "-lapue", 
+   "-pthread", 
+   "-lrt", 
+   "-lbsd"
+  ], 
+  "file": "timedlock.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/lib", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "openmax.o", 
+   "openmax.c"
+  ], 
+  "file": "openmax.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/datafiles", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "strftime.c", 
+   "-o", 
+   "strftime", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "strftime.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/lib", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "clrfl.o", 
+   "clrfl.c"
+  ], 
+  "file": "clrfl.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/ipc1", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "devzero.c", 
+   "-o", 
+   "devzero", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "devzero.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/exercises", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "openmax.o", 
+   "openmax.c"
+  ], 
+  "file": "openmax.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/termios", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "t_raw.c", 
+   "-o", 
+   "t_raw", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "t_raw.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/exercises", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "sleep.o", 
+   "sleep.c"
+  ], 
+  "file": "sleep.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/proc", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "vfork1.c", 
+   "-o", 
+   "vfork1", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "vfork1.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/ipc1", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "pipe4.c", 
+   "-o", 
+   "pipe4", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "pipe4.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/ipc2/opend.fe", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "cliargs.o", 
+   "cliargs.c"
+  ], 
+  "file": "cliargs.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/threads", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "badexit2.c", 
+   "-o", 
+   "badexit2", 
+   "-L../lib", 
+   "-lapue", 
+   "-pthread", 
+   "-lrt", 
+   "-lbsd"
+  ], 
+  "file": "badexit2.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/ipc2/opend", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "request.o", 
+   "request.c"
+  ], 
+  "file": "request.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/lib", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "prmask.o", 
+   "prmask.c"
+  ], 
+  "file": "prmask.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/printer", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "printd.o", 
+   "printd.c"
+  ], 
+  "file": "printd.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/proc", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "test1.c", 
+   "-o", 
+   "test1", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "test1.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/filedir", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "unlink.c", 
+   "-o", 
+   "unlink", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "unlink.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/printer", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "util.o", 
+   "util.c"
+  ], 
+  "file": "util.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/advio", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "deadlock.c", 
+   "-o", 
+   "deadlock", 
+   "-L../lib", 
+   "-lapue", 
+   "-lrt"
+  ], 
+  "file": "deadlock.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/advio", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "mcopy2.c", 
+   "-o", 
+   "mcopy2", 
+   "-L../lib", 
+   "-lapue", 
+   "-lrt"
+  ], 
+  "file": "mcopy2.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/signals", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "child.c", 
+   "-o", 
+   "child", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "child.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/lib", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "servlisten.o", 
+   "servlisten.c"
+  ], 
+  "file": "servlisten.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/ipc2/opend", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "cliargs.o", 
+   "cliargs.c"
+  ], 
+  "file": "cliargs.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/signals", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "reenter.c", 
+   "-o", 
+   "reenter", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "reenter.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/intro", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "shell2.c", 
+   "-o", 
+   "shell2", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "shell2.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/exercises", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "fifo1.c", 
+   "-o", 
+   "fifo1", 
+   "-L../lib", 
+   "-lapue", 
+   "-pthread"
+  ], 
+  "file": "fifo1.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/stdio", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "memstr.c", 
+   "-o", 
+   "memstr", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "memstr.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/proc", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "fork2.c", 
+   "-o", 
+   "fork2", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "fork2.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/ipc1", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "popen1.c", 
+   "-o", 
+   "popen1", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "popen1.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/termios", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "getpass.o", 
+   "getpass.c"
+  ], 
+  "file": "getpass.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/filedir", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "ftw8.c", 
+   "-o", 
+   "ftw8", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "ftw8.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/lib", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "signalintr.o", 
+   "signalintr.c"
+  ], 
+  "file": "signalintr.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/daemons", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "reread.o", 
+   "reread.c"
+  ], 
+  "file": "reread.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/proc", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "wait1.c", 
+   "-o", 
+   "wait1", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "wait1.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/lib", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "error.o", 
+   "error.c"
+  ], 
+  "file": "error.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/lib", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "lockreg.o", 
+   "lockreg.c"
+  ], 
+  "file": "lockreg.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/signals", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "tsleep2.o", 
+   "tsleep2.c"
+  ], 
+  "file": "tsleep2.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/ipc1", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "popen2.c", 
+   "-o", 
+   "popen2", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "popen2.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/threads", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "mutex1.o", 
+   "mutex1.c"
+  ], 
+  "file": "mutex1.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/filedir", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "mycd.c", 
+   "-o", 
+   "mycd", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "mycd.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/ipc2", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "sendmsg.c", 
+   "-o", 
+   "sendmsg", 
+   "-L../lib", 
+   "-lapue", 
+   "-pthread"
+  ], 
+  "file": "sendmsg.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/ipc2", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "pollmsg.c", 
+   "-o", 
+   "pollmsg", 
+   "-L../lib", 
+   "-lapue", 
+   "-pthread"
+  ], 
+  "file": "pollmsg.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/environ", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "opendata.o", 
+   "opendata.c"
+  ], 
+  "file": "opendata.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/fileio", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "fileflags.c", 
+   "-o", 
+   "fileflags", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "fileflags.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/lib", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "sleepus.o", 
+   "sleepus.c"
+  ], 
+  "file": "sleepus.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/lib", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "sleep.o", 
+   "sleep.c"
+  ], 
+  "file": "sleep.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/ipc1", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "add2.c", 
+   "-o", 
+   "add2", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "add2.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/ipc1", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "tshm.c", 
+   "-o", 
+   "tshm", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "tshm.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/ipc2/opend", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "main.o", 
+   "main.c"
+  ], 
+  "file": "main.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/sockets", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "clconn2.o", 
+   "clconn2.c"
+  ], 
+  "file": "clconn2.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/sockets", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "ruptimed-dg.o", 
+   "ruptimed-dg.c"
+  ], 
+  "file": "ruptimed-dg.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/lib", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "bufargs.o", 
+   "bufargs.c"
+  ], 
+  "file": "bufargs.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/environ", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "echoarg.c", 
+   "-o", 
+   "echoarg", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "echoarg.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/db", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "db.o", 
+   "db.c"
+  ], 
+  "file": "db.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/threads", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "threadid.c", 
+   "-o", 
+   "threadid", 
+   "-L../lib", 
+   "-lapue", 
+   "-pthread", 
+   "-lrt", 
+   "-lbsd"
+  ], 
+  "file": "threadid.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/filedir", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "zap.c", 
+   "-o", 
+   "zap", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "zap.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/stdio", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "fgetsfputs.c", 
+   "-o", 
+   "fgetsfputs", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "fgetsfputs.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/daemons", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "reread2.o", 
+   "reread2.c"
+  ], 
+  "file": "reread2.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/advio", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "lockfile.o", 
+   "lockfile.c"
+  ], 
+  "file": "lockfile.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/pty", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "driver.o", 
+   "driver.c"
+  ], 
+  "file": "driver.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/ipc1", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "pipe2.c", 
+   "-o", 
+   "pipe2", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "pipe2.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/termios", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "winch.c", 
+   "-o", 
+   "winch", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "winch.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/threadctl", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "getenv1.o", 
+   "getenv1.c"
+  ], 
+  "file": "getenv1.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/stdio", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "buf.c", 
+   "-o", 
+   "buf", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "buf.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/threadctl", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "getenv2.o", 
+   "getenv2.c"
+  ], 
+  "file": "getenv2.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/printer", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "../sockets/clconn2.o", 
+   "../sockets/clconn2.c"
+  ], 
+  "file": "../sockets/clconn2.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/lib", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "ptyopen.o", 
+   "ptyopen.c"
+  ], 
+  "file": "ptyopen.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/threads", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "mutex2.o", 
+   "mutex2.c"
+  ], 
+  "file": "mutex2.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/daemons", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "init.o", 
+   "init.c"
+  ], 
+  "file": "init.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/environ", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "hello1.c", 
+   "-o", 
+   "hello1", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "hello1.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/environ", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "getrlimit.c", 
+   "-o", 
+   "getrlimit", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "getrlimit.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/signals", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "sigusr.c", 
+   "-o", 
+   "sigusr", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "sigusr.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/intro", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "getcputc.c", 
+   "-o", 
+   "getcputc", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "getcputc.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/lib", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "setfd.o", 
+   "setfd.c"
+  ], 
+  "file": "setfd.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/termios", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "isatty.o", 
+   "isatty.c"
+  ], 
+  "file": "isatty.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/signals", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "sigtstp.c", 
+   "-o", 
+   "sigtstp", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "sigtstp.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/threadctl", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "atfork.c", 
+   "-o", 
+   "atfork", 
+   "-L../lib", 
+   "-lapue", 
+   "-pthread"
+  ], 
+  "file": "atfork.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/lib", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "pathalloc.o", 
+   "pathalloc.c"
+  ], 
+  "file": "pathalloc.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/signals", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "systest2.o", 
+   "systest2.c"
+  ], 
+  "file": "systest2.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/proc", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "echoall.c", 
+   "-o", 
+   "echoall", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "echoall.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/filedir", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "devrdev.c", 
+   "-o", 
+   "devrdev", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "devrdev.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/ipc1", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "myuclc.c", 
+   "-o", 
+   "myuclc", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "myuclc.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/exercises", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "getpwsvr4.c", 
+   "-o", 
+   "getpwsvr4", 
+   "-L../lib", 
+   "-lapue", 
+   "-pthread"
+  ], 
+  "file": "getpwsvr4.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/signals", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "sleep2.o", 
+   "sleep2.c"
+  ], 
+  "file": "sleep2.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/proc", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "fork1.c", 
+   "-o", 
+   "fork1", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "fork1.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/daemons", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "single.o", 
+   "single.c"
+  ], 
+  "file": "single.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/termios", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "t_isatty.c", 
+   "-o", 
+   "t_isatty", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "t_isatty.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/fileio", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "hole.c", 
+   "-o", 
+   "hole", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "hole.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/printer", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "../sockets/initsrv2.o", 
+   "../sockets/initsrv2.c"
+  ], 
+  "file": "../sockets/initsrv2.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/threadctl", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "suspend.c", 
+   "-o", 
+   "suspend", 
+   "-L../lib", 
+   "-lapue", 
+   "-pthread"
+  ], 
+  "file": "suspend.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/ipc2", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "recvfd2.o", 
+   "recvfd2.c"
+  ], 
+  "file": "recvfd2.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/ipc2/open", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "open.o", 
+   "open.c"
+  ], 
+  "file": "open.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/signals", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "suspend1.c", 
+   "-o", 
+   "suspend1", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "suspend1.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/ipc1", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "pipe1.c", 
+   "-o", 
+   "pipe1", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "pipe1.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/signals", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "system.o", 
+   "system.c"
+  ], 
+  "file": "system.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/ipc1", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "tellwait.o", 
+   "tellwait.c"
+  ], 
+  "file": "tellwait.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/sockets", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "ruptimed-fd.o", 
+   "ruptimed-fd.c"
+  ], 
+  "file": "ruptimed-fd.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/ipc1", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "popen.o", 
+   "popen.c"
+  ], 
+  "file": "popen.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/proc", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-DHAS_AXSIG", 
+   "-DHAS_ACORE", 
+   "-o", 
+   "pracct", 
+   "pracct.c", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "pracct.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/threads", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "condvar.o", 
+   "condvar.c"
+  ], 
+  "file": "condvar.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/stdio", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "getcharbug.c", 
+   "-o", 
+   "getcharbug", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "getcharbug.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/fileio", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "setfl.o", 
+   "setfl.c"
+  ], 
+  "file": "setfl.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/environ", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "scope.o", 
+   "scope.c"
+  ], 
+  "file": "scope.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/termios", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "t_ttyname.c", 
+   "-o", 
+   "t_ttyname", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "t_ttyname.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/threadctl", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "getenv3.o", 
+   "getenv3.c"
+  ], 
+  "file": "getenv3.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/threads", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "rwlock.o", 
+   "rwlock.c"
+  ], 
+  "file": "rwlock.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/ipc2", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "bindunix.c", 
+   "-o", 
+   "bindunix", 
+   "-L../lib", 
+   "-lapue", 
+   "-pthread"
+  ], 
+  "file": "bindunix.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/threads", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "cleanup.c", 
+   "-o", 
+   "cleanup", 
+   "-L../lib", 
+   "-lapue", 
+   "-pthread", 
+   "-lrt", 
+   "-lbsd"
+  ], 
+  "file": "cleanup.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/lib", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "sendfd.o", 
+   "sendfd.c"
+  ], 
+  "file": "sendfd.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/sockets", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "findsvc.c", 
+   "-L../lib", 
+   "-lapue", 
+   "-o", 
+   "findsvc"
+  ], 
+  "file": "findsvc.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/filedir", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "cdpwd.c", 
+   "-o", 
+   "cdpwd", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "cdpwd.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/filedir", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "changemod.c", 
+   "-o", 
+   "changemod", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "changemod.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/lib", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "spipe.o", 
+   "spipe.c"
+  ], 
+  "file": "spipe.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/termios", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "ctermid.o", 
+   "ctermid.c"
+  ], 
+  "file": "ctermid.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/exercises", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "pendlock.c", 
+   "-o", 
+   "pendlock", 
+   "-L../lib", 
+   "-lapue", 
+   "-pthread"
+  ], 
+  "file": "pendlock.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/signals", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "abort.o", 
+   "abort.c"
+  ], 
+  "file": "abort.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/proc", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "times1.c", 
+   "-o", 
+   "times1", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "times1.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/sockets", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "ruptime.o", 
+   "ruptime.c"
+  ], 
+  "file": "ruptime.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/intro", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "uidgid.c", 
+   "-o", 
+   "uidgid", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "uidgid.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/threads", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "barrier.c", 
+   "-o", 
+   "barrier", 
+   "-L../lib", 
+   "-lapue", 
+   "-pthread", 
+   "-lrt", 
+   "-lbsd"
+  ], 
+  "file": "barrier.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/termios", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "settty.c", 
+   "-o", 
+   "settty", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "settty.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/intro", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "shell1.c", 
+   "-o", 
+   "shell1", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "shell1.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/threads", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "mutex3.o", 
+   "mutex3.c"
+  ], 
+  "file": "mutex3.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/ipc2", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "sendfd2.o", 
+   "sendfd2.c"
+  ], 
+  "file": "sendfd2.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/lib", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "prexit.o", 
+   "prexit.c"
+  ], 
+  "file": "prexit.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/filedir", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "umask.c", 
+   "-o", 
+   "umask", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "umask.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/stdio", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "getcputc.c", 
+   "-o", 
+   "getcputc", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "getcputc.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/filedir", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "access.c", 
+   "-o", 
+   "access", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "access.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/signals", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "critical.c", 
+   "-o", 
+   "critical", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "critical.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/intro", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "hello.c", 
+   "-o", 
+   "hello", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "hello.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/fileio", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "seek.c", 
+   "-o", 
+   "seek", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "seek.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/relation", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "orphan3.c", 
+   "-o", 
+   "orphan3", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "orphan3.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/ipc2/opend", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "loop.poll.o", 
+   "loop.poll.c"
+  ], 
+  "file": "loop.poll.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/proc", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "nice.c", 
+   "-o", 
+   "nice", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "nice.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/threads", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "maketimeout.o", 
+   "maketimeout.c"
+  ], 
+  "file": "maketimeout.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/exercises", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "bo.c", 
+   "-o", 
+   "bo", 
+   "-L../lib", 
+   "-lapue", 
+   "-pthread"
+  ], 
+  "file": "bo.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/lib", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "daemonize.o", 
+   "daemonize.c"
+  ], 
+  "file": "daemonize.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/stdio", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "tempfiles.c", 
+   "-o", 
+   "tempfiles", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "tempfiles.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/ipc2/open.fe", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "main.o", 
+   "main.c"
+  ], 
+  "file": "main.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/sockets", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "initsrv1.o", 
+   "initsrv1.c"
+  ], 
+  "file": "initsrv1.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/exercises", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "zombie.c", 
+   "-o", 
+   "zombie", 
+   "-L../lib", 
+   "-lapue", 
+   "-pthread"
+  ], 
+  "file": "zombie.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/lib", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "cliconn.o", 
+   "cliconn.c"
+  ], 
+  "file": "cliconn.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/lib", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "popen.o", 
+   "popen.c"
+  ], 
+  "file": "popen.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/ipc2/open", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "main.o", 
+   "main.c"
+  ], 
+  "file": "main.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/signals", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "sleep1.o", 
+   "sleep1.c"
+  ], 
+  "file": "sleep1.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/ipc1", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "add2stdio.c", 
+   "-o", 
+   "add2stdio", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "add2stdio.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/proc", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "exec1.c", 
+   "-o", 
+   "exec1", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "exec1.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/proc", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "exec2.c", 
+   "-o", 
+   "exec2", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "exec2.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/proc", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "tellwait2.c", 
+   "-o", 
+   "tellwait2", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "tellwait2.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/ipc2/opend.fe", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "main.o", 
+   "main.c"
+  ], 
+  "file": "main.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/sockets", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "ruptime-dg.c", 
+   "-L../lib", 
+   "-lapue", 
+   "-o", 
+   "ruptime-dg"
+  ], 
+  "file": "ruptime-dg.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/lib", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "ptyfork.o", 
+   "ptyfork.c"
+  ], 
+  "file": "ptyfork.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/exercises", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "prtime.c", 
+   "-o", 
+   "prtime", 
+   "-L../lib", 
+   "-lapue", 
+   "-pthread"
+  ], 
+  "file": "prtime.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/threadctl", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "detach.o", 
+   "detach.c"
+  ], 
+  "file": "detach.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/intro", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "mycat.c", 
+   "-o", 
+   "mycat", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "mycat.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/proc", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "systest3.o", 
+   "systest3.c"
+  ], 
+  "file": "systest3.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/termios", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "t_getpass.c", 
+   "-o", 
+   "t_getpass", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "t_getpass.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/signals", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "read1.c", 
+   "-o", 
+   "read1", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "read1.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/stdio", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "mkstemp.c", 
+   "-o", 
+   "mkstemp", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "mkstemp.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/printer", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "print.o", 
+   "print.c"
+  ], 
+  "file": "print.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/lib", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "setfl.o", 
+   "setfl.c"
+  ], 
+  "file": "setfl.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/proc", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "systest1.o", 
+   "systest1.c"
+  ], 
+  "file": "systest1.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/termios", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "csize.c", 
+   "-o", 
+   "csize", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "csize.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/lib", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "tellwait.o", 
+   "tellwait.c"
+  ], 
+  "file": "tellwait.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/threadctl", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "timeout.o", 
+   "timeout.c"
+  ], 
+  "file": "timeout.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/ipc2/opend.fe", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "request.o", 
+   "request.c"
+  ], 
+  "file": "request.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/pty", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "main.o", 
+   "main.c"
+  ], 
+  "file": "main.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/ipc2/opend", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "loop.select.o", 
+   "loop.select.c"
+  ], 
+  "file": "loop.select.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/exercises", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "getlogin.c", 
+   "-o", 
+   "getlogin", 
+   "-L../lib", 
+   "-lapue", 
+   "-pthread"
+  ], 
+  "file": "getlogin.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/lib", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "errorlog.o", 
+   "errorlog.c"
+  ], 
+  "file": "errorlog.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/intro", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "ls1.c", 
+   "-o", 
+   "ls1", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "ls1.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/signals", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "suspend2.c", 
+   "-o", 
+   "suspend2", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "suspend2.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/lib", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "locktest.o", 
+   "locktest.c"
+  ], 
+  "file": "locktest.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/exercises", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "longpath.c", 
+   "-o", 
+   "longpath", 
+   "-L../lib", 
+   "-lapue", 
+   "-pthread"
+  ], 
+  "file": "longpath.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/termios", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "ttyname.o", 
+   "ttyname.c"
+  ], 
+  "file": "ttyname.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/advio", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "rot13a.c", 
+   "-o", 
+   "rot13a", 
+   "-L../lib", 
+   "-lapue", 
+   "-lrt"
+  ], 
+  "file": "rot13a.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/exercises", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "goodexit.c", 
+   "-o", 
+   "goodexit", 
+   "-L../lib", 
+   "-lapue", 
+   "-pthread"
+  ], 
+  "file": "goodexit.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/proc", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "tellwait1.c", 
+   "-o", 
+   "tellwait1", 
+   "-L../lib", 
+   "-lapue"
+  ], 
+  "file": "tellwait1.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/sockets", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "clconn.o", 
+   "clconn.c"
+  ], 
+  "file": "clconn.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/pty", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "loop.o", 
+   "loop.c"
+  ], 
+  "file": "loop.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/proc", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "system.o", 
+   "system.c"
+  ], 
+  "file": "system.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/ipc2/opend", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "client.o", 
+   "client.c"
+  ], 
+  "file": "client.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/lib", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "recvfd.o", 
+   "recvfd.c"
+  ], 
+  "file": "recvfd.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/lib", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "-c", 
+   "-o", 
+   "signal.o", 
+   "signal.c"
+  ], 
+  "file": "signal.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/exercises", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "vfork3.c", 
+   "-o", 
+   "vfork3", 
+   "-L../lib", 
+   "-lapue", 
+   "-pthread"
+  ], 
+  "file": "vfork3.c"
+ }, 
+ {
+  "directory": "/home/kevin/c/apue-3rd/advio", 
+  "arguments": [
+   "gcc", 
+   "-ansi", 
+   "-I../include", 
+   "-Wall", 
+   "-DLINUX", 
+   "-D_GNU_SOURCE", 
+   "rot13c2.c", 
+   "-o", 
+   "rot13c2", 
+   "-L../lib", 
+   "-lapue", 
+   "-lrt"
+  ], 
+  "file": "rot13c2.c"
+ }
+]
